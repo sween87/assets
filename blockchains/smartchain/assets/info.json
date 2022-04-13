@@ -1,0 +1,10 @@
+{   "name": "Very Happy Doggo",
+    "website": "https://vhd.money",
+    "description": "Very Happy Doggo is a play to earn token on the BNB chain.",
+    "explorer": "https://bscscan.com/token/0x615D8667f94A67948824D1fcaE78ef1a0491F54A",
+    "type": "BEP20",
+    "symbol": "VHD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x615D8667f94A67948824D1fcaE78ef1a0491F54A"
+}
